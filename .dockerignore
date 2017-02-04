@@ -1,0 +1,5 @@
+# default ignore all files, selectively include files
+*
+
+# meta files
+!LICENSE
